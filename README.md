@@ -2,10 +2,6 @@
 A portfolio project showcasing ML engineering skills using Stable Diffusion for text-to-image generation
 
 
-Here's a clean and professional **`README.md`** markdown file you can use for your GitHub repository. It is formatted to showcase your **Text-to-Image Generation Portfolio Project** in the best possible way:
-
----
-
 ```markdown
 # 🧠🎨 Text-to-Image Generation Portfolio Project
 
@@ -39,35 +35,6 @@ To create a modular, well-documented implementation of **text-to-image generatio
 ---
 
 ## 📁 Project Structure
-
-```
-
-stable-diffusion-portfolio/
-├── README.md
-├── requirements.txt
-├── notebooks/
-│   ├── 01\_basic\_generation.ipynb
-│   ├── 02\_parameter\_tuning.ipynb
-│   ├── 03\_advanced\_prompts.ipynb
-│   ├── 04\_batch\_processing.ipynb
-│   ├── 05\_image\_editing.ipynb
-│   └── 06\_model\_comparison.ipynb
-├── utils/
-│   ├── prompt\_utils.py
-│   ├── image\_utils.py
-│   └── model\_utils.py
-├── examples/
-│   ├── basic/
-│   ├── advanced/
-│   └── comparisons/
-└── docs/
-├── model\_overview\.md
-├── prompt\_guide.md
-└── parameter\_guide.md
-
-````
-
----
 
 ## 💡 Notebooks Overview
 
@@ -131,12 +98,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🤝 Contributing
 
 Pull requests and suggestions are welcome! Let’s build something magical ✨
-
----
-
-## 📬 Contact
-
-Connect on [LinkedIn](https://www.linkedin.com/) or explore more projects on [GitHub](https://github.com/).
 
 ---
 
